@@ -16,4 +16,6 @@
 [![Owner](https://img.shields.io/badge/Owner-WozardLozard%233956-blue)]()
 
 ### How to use
-To report an issue or a suggestion, please open a new issue.
+* To report an issue or a suggestion, open a new issue. 
+* Please be nice and supportive to other users.
+* Your submission will be reviewed and addressed by a member of Team Gradient.
