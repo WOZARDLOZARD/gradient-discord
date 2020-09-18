@@ -18,4 +18,4 @@
 ### How to use
 * To report an issue or a suggestion, open a new issue. 
 * Please be nice and supportive to other users.
-* Your submission will be reviewed and addressed by a member of Team Gradient.
+* Your submission will be reviewed and addressed by a member of Team Gradient as soon as possible.
